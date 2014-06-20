@@ -1,0 +1,31 @@
+{
+  "name": "senalalo",
+  "version": "0.0.1",
+  "authors": [
+    "Ciudadano Inteligente's lab"
+  ],
+  "description": "A summary of Chilean's cellphone towers",
+  "main": "index",
+  "keywords": [
+    "cellphone",
+    "towers",
+    "chile",
+    "movistar",
+    "entel",
+    "claro",
+    "nextel"
+  ],
+  "license": "Affero GPL",
+  "homepage": "senalalo.ciudadanointeligente.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.3",
+    "google-sheets": "GoogleWebComponents/google-sheets#~0.0.2"
+  }
+}
